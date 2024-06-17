@@ -853,6 +853,8 @@ input:checked + label .description {
     }
 }
 @media screen and (max-width: 600px)  {
+    #cursor{
+        display: none;}
     .logo{
         width: 11vw;
         height: 3vh;
