@@ -865,8 +865,15 @@ input:checked + label .description {
     .search h1{
         font-size: 1.5vw;
     }
+    .leftnav{
+        justify-content: flex-start;
+       /* align-items: flex-start; */
+       /* background-color: #E60012; */
+       padding-left: 2vw;
+    }
     .rightnav i{
         font-size: 3vw;
+        
     }
     .leftnav h1{
 
