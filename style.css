@@ -1101,6 +1101,18 @@ input:checked + label .description {
     .page4{
         height: 45vh;
     }
+    .footer{
+        height: 40vh;
+    }
+    .topbar{
+        height: 10vh;
+    }
+    .mainfooter{
+        height: 20vh;
+    }
+    .text-box{
+        height: 10vh;
+    }
 }
 @media screen and (max-width: 360px)  {
     .page4{
