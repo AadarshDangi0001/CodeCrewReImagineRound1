@@ -1099,7 +1099,7 @@ input:checked + label .description {
 }
 @media screen and (max-width: 400px)  {
     .page4{
-        height: 45vh;
+        height: 35vh;
     }
     .footer{
         height: 40vh;
@@ -1116,7 +1116,7 @@ input:checked + label .description {
 }
 @media screen and (max-width: 360px)  {
     .page4{
-        height: 40vh;
+        height: 33vh;
     }
     .logo{
         width: 11vw;
