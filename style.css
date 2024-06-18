@@ -1033,13 +1033,9 @@ input:checked + label .description {
     .c7{
         display: none;
     }
-    .page3{
-      gap: 0;
-    }
-   .page3box{
-      height: 30vh;
-      /* background-color: #E60012; */
-   }
+    
+  
+  
     .container {
         height: 15vh;
     }
@@ -1057,15 +1053,17 @@ input:checked + label .description {
         /* background-color: #E60012; */
     }
     .page3{
-        height: 170vh;
+        gap: 0;
+        height: 100vh;
     }
     .page3box{
-        height: 40vh;
+        /* background-color: #E60012; */
+        height: 25vh;
         width: 100vw;
     }
     .newsimg{
-        width: 45vw;
-        height: 18vh;
+        width: 40vw;
+        height: 15vh;
     }
     .newsbtn{
         width: 10vw;
